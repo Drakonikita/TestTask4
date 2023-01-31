@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/dev/UE5/TestTask4/TestTask4/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/KeysMechanics/BP_Key.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/KeysMechanics/BP_Door.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/KeysMechanics/FrameMesh.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/JN/T8WMNF8H0PY54S6SZ0T6XX.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/DG/83O65C3YHKY8OMDMS0S8MS.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/XU/LANBX9WFHYI1DASPI7MQ4K.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/KeysMechanics/BP_KeyStand.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SR/EIHT7BNLTJNV4GR8BMMSYV.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/SF/F8IDTIQERNYP6Y9KN8KRRB.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/KeysMechanics/BP_ActorWithText.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/2S/YRHTU7GE4I6XITEOXX1LQ0.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/8N/UY3TH060RT9GHCK4JOPR66.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/35/4AVZYUASBUR11SJ02TS5N7.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/1R/79D9NN8ZIH51WA9KZSSXO0.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/KeysMechanics/BP_Table.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/43/GXK4BW31Q1HCX8G2A9QTMJ.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YV/IESFMLA7OL9JMG1OO0N8M0.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/KeysMechanics/BPC_TextTip.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/KeysMechanics/BP_TipText.uasset",
+				"D:/dev/UE5/TestTask4/TestTask4/Content/KeysMechanics/BP_Frame.uasset"
+			]
+		}
+	]
+}
